@@ -1,7 +1,7 @@
 flask
 sqlalchemy
 flask_admin
-flak_bcrypt
+flask_bcrypt
 flask_login
 flask_mail
 flask_sqlalchemy
