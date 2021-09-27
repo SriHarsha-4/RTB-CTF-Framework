@@ -20,4 +20,4 @@ six
 WTForms
 tablib
 flake8
-
+black
