@@ -10,7 +10,7 @@ flask_wtf
 flask_caching
 flask_minify
 flask_migrate
-psycopg2
+psycopg2-binary
 redis
 gunicorn
 meinheld
