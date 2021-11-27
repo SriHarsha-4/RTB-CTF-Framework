@@ -17,7 +17,7 @@ meinheld
 greenlet
 pytz
 six
-WTForms = 2.3.3
+WTForms == 2.3.3
 tablib
 flake8
 black
