@@ -6,7 +6,7 @@ flask_login
 flask_mail
 flask_sqlalchemy
 flask_sslify
-flask_wtf
+flask_wtf 
 flask_caching
 flask_minify
 flask_migrate
@@ -17,7 +17,7 @@ meinheld
 greenlet
 pytz
 six
-WTForms
+WTForms = 2.3.3
 tablib
 flake8
 black
